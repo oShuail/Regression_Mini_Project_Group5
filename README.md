@@ -106,6 +106,6 @@ The notebook covers the full machine learning workflow: exploratory data analysi
 | Member | Part |
 |---|---|
 | [Raghad Alasmari](https://github.com/Raghad0za) | Dataset exploration (EDA) |
-| Ruba | Data preprocessing |
+| [Ruba Alotaibi](https://github.com/RubaAlotaibi) | Data preprocessing |
 | [Daniyah Aleid](https://github.com/DAleid) | Model training |
 | [Omar Alshuail](https://github.com/oShuail) | Model evaluation |
